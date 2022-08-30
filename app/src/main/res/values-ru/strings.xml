@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="nmedia">НМедиа!</string>
+    <string name="avatar_description">Аватар автора</string>
+    <string name="thousands">%1$sТ</string>
+    <string name="million">%1$sМ</string>
+    <string name="remove">Удалить</string>
+    <string name="post_text">Текст поста…</string>
+    <string name="menu_edit">Изменить</string>
+    <string name="edit_message">Редактировать текст</string>
+    <string name="description_post_like">Лайк поста</string>
+    <string name="description_post_share">Поделиться постом</string>
+    <string name="description_post_options">Меню поста</string>
+    <string name="chooser_share_post">Поделиться</string>
+    <string name="description_post_save">Сохранить</string>
+    <string name="add_post">Добавить пост</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nmedia</string>
+    <string name="nmedia">NMedia!</string>
+    <string name="kilo" translatable="false">K</string>
+    <string name="avatar_description">Author avatar</string>
+    <string name="thousands">%1$sK</string>
+    <string name="million">%1$sM</string>
+    <string name="remove">Remove</string>
+    <string name="post_text">Post Text…</string>
+    <string name="menu_edit">Edit</string>
+    <string name="edit_message">Edit message</string>
+    <string name="description_post_like">Post like</string>
+    <string name="description_post_share">Post share</string>
+    <string name="description_post_options">Post options</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="description_post_save">Save</string>
+    <string name="add_post">Add post</string>
+
+</resources>
